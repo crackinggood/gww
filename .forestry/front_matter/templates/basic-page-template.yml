@@ -13,5 +13,5 @@ fields:
   label: layout
   name: layout
 pages:
-- _posts/sample-a.md
+- _posts/2018-08-24-sample-a.md
 - _posts/2018-08-24-another-new-post.md
