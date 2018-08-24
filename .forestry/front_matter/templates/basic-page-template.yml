@@ -23,4 +23,4 @@ fields:
   name: tags_for_this_post
   label: tags for this post
 pages:
-- _posts/new-post.md
+- _posts/2018-08-24-new-post.md
