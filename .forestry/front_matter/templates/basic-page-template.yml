@@ -22,3 +22,5 @@ fields:
 - type: tag_list
   name: tags_for_this_post
   label: tags for this post
+pages:
+- _posts/new-post.md
