@@ -11,5 +11,3 @@ fields:
     - post
   label: layout
   name: layout
-pages:
-- _posts/2018-08-24-new-post.md
