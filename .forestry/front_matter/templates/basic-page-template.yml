@@ -10,6 +10,14 @@ fields:
   description: enter the title of the page
   config:
     required: true
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - post
+  label: layout
+  name: layout
 - type: textarea
   name: page_body
   label: Page Body
