@@ -8,7 +8,8 @@ fields:
     source:
       type: simple
     options:
-    - post
+    - default
+    required: true
   label: layout
   name: layout
 pages:
