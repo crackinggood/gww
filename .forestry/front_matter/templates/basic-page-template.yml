@@ -3,13 +3,6 @@ label: basic page template
 hide_body: false
 is_partial: false
 fields:
-- type: text
-  default: Page Title
-  label: Page Title
-  name: page_title
-  description: enter the title of the page
-  config:
-    required: true
 - type: select
   config:
     source:
@@ -18,17 +11,5 @@ fields:
     - post
   label: layout
   name: layout
-- type: textarea
-  name: page_body
-  label: Page Body
-  description: enter your page body here
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
-- type: tag_list
-  name: tags_for_this_post
-  label: tags for this post
 pages:
 - _posts/2018-08-24-new-post.md
