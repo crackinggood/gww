@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Welcome to Jekyll! (and GrowingWithW.com)
 date: 2018-08-24 00:06:46 +0000
 categories:

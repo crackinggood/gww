@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+
+<header>
+<h1>Surviving, Thriving & Growing With an Awesome Twice Exceptional (2E) Kid</h1>
+<p>Maybe you'll find something of interest here...</p>
+</header>
+
+{% include tiles.html %}
