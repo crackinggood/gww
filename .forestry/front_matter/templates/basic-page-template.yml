@@ -11,3 +11,5 @@ fields:
     - post
   label: layout
   name: layout
+pages:
+- _posts/another-new-post.md
