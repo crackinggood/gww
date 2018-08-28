@@ -1,17 +1,11 @@
 ---
-label: basic page template
+label: post template
 hide_body: false
 is_partial: false
 fields:
-- type: select
-  config:
-    source:
-      type: simple
-    options:
-    - default
-    required: true
-  label: layout
-  name: layout
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - _posts/2018-08-25-sample-b.md
 - _posts/2018-08-28-rejected.md
