@@ -1,7 +1,7 @@
 ---
 title: Math with Fred
 date: 2018-08-28 17:34:03 +0000
-layout: default
+layout: post
 tags:
 - home school
 - math
