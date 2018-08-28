@@ -12,6 +12,15 @@ fields:
 - type: file
   name: img
   label: image
+- type: select
+  name: post
+  config:
+    source:
+      type: simple
+    options:
+    - post
+  label: template
+  description: template to use
 pages:
 - _posts/2018-08-28-rejected.md
 - _posts/2018-08-28-math-with-fred.md
