@@ -2,6 +2,8 @@
 title: Math with Fred
 date: 2018-08-28 17:34:03 +0000
 layout: default
+tags: []
+img: "/uploads/IMG_1451.jpg"
 
 ---
 A couple of years ago, someone told me about [Life of Fred](https://www.lifeoffred.uniquemath.com/ "Life of Fred") math books.
