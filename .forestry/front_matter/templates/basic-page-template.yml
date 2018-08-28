@@ -6,6 +6,9 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: datetime
+  name: date
+  label: date
 pages:
 - _posts/2018-08-25-sample-b.md
 - _posts/2018-08-28-rejected.md
