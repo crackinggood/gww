@@ -2,7 +2,11 @@
 title: Math with Fred
 date: 2018-08-28 17:34:03 +0000
 layout: default
-tags: []
+tags:
+- home school
+- math
+- fred
+- books
 img: "/uploads/IMG_1451.jpg"
 
 ---
