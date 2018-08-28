@@ -9,6 +9,9 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: file
+  name: img
+  label: image
 pages:
 - _posts/2018-08-25-sample-b.md
 - _posts/2018-08-28-rejected.md
