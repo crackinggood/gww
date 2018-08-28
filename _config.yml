@@ -8,74 +8,84 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Growing With W
-email: blog@crackinggood.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Surviving and sometimes thriving with an awesome twice exceptional (2E) kid. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# # Site settings
+# # These are used to personalize your new site. If you look in the HTML files,
+# # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# # You can create any custom variable you would like, and they will be accessible
+# # in the templates via {{ site.myvariable }}.
+# title: Growing With W
+# email: blog@crackinggood.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Surviving and sometimes thriving with an awesome twice exceptional (2E) kid. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
-# Build settings
-markdown: kramdown
-theme: phantom_jekyll_theme
-plugins:
-  - jekyll-feed
-  - jekyll-menus
-
-
-
-
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# title: Phantom
-# email: youremailaddress@gmail.com
-# description: The Jekyll version of the Phantom theme by HTML5 UP.
-# baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site
-
-# Logo settings
-logo-image-url: images/logo.svg
-font-awesome-icon-logo: fas fa-book
-
-# Social settings
-# github_username: crackinggood
-twitter_username: crackinggood
-# facebook_URL: crackinggood
-instagram_username: crackinggood
-# dribbble_username: andrewbanchich
-# 500px_username: andrewbanchich
-# phone: 555-5555
-
-# Build settings
+# # Build settings
 # markdown: kramdown
+# theme: phantom_jekyll_theme
+# plugins:
+#   - jekyll-feed
+#   - jekyll-menus
 
-# Layout settings
-home-link-in-menu: yes
+
+# # Exclude from processing.
+# # The following items will not be processed, by default. Create a custom list
+# # to override the default setting.
+# # exclude:
+# #   - Gemfile
+# #   - Gemfile.lock
+# #   - node_modules
+# #   - vendor/bundle/
+# #   - vendor/cache/
+# #   - vendor/gems/
+# #   - vendor/ruby/
 
 
+title: Growing With W
+description: > # this means to ignore newlines until "baseurl:"
+  Surviving and sometimes thriving with an awesome twice exceptional (2E) kid. 
+  It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://growingwithw.com" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: crackinggood
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Author Settings
+author: Carrie Wheeler # add your name
+author-img: carrie.jpg # add your photo
+about-author: >
+  Writer, illustrator and problem solver. I create engaging press releases
+  for restaurant openings and special events, hype a monthly dance night 
+  and make easily digestible copy for websites. I report on food, culture,
+  style and things-to-do for local publications and businesses. I suggest
+  things-to-do and places to go for hotel visitor’s guides and maps. I teach
+  Photoshop classes to corporate clients. I also lend a hand with marketing
+  materials and website updates for a couple of local non-profit organizations.
+social-twitter: crackinggood
+social-facebook: # add your Facebook handle
+social-github: # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: blog@growingwithw.com
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
