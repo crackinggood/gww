@@ -4,7 +4,7 @@ date: 2018-08-28 17:34:03 +0000
 layout: default
 
 ---
-A couple of years ago, someone told me about Life of Fred math books.
+A couple of years ago, someone told me about [Life of Fred](https://www.lifeoffred.uniquemath.com/ "Life of Fred") math books.
 
 I’m not sure if this friend used them, or heard they were good, but being a person who needs only the flimsiest of excuses to purchase a book, I ordered a couple.
 
