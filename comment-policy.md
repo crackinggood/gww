@@ -4,7 +4,7 @@ layout: main
 ---
 # Comment Policy
 
-The comment tool this site uses is [Discus](http://disqus.com) - and they have created a [good set of rules](https://help.disqus.com/community-tips/building-identity-and-audience/sample-community-guidelines) appliciable to comments on the site. Please follow these rules, and above all, be kind. Thanks!
+The comment tool this site uses is [Discus](http://disqus.com) - and they have created a [good set of rules](https://help.disqus.com/community-tips/building-identity-and-audience/sample-community-guidelines) appliciable to comments on the site. Please follow these rules, but above all, **be kind**!
 
 ## Keep it civil aka don’t be a jerk
 
