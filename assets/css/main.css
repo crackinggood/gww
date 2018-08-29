@@ -788,13 +788,11 @@ table tfoot td {
     width: 100px;
     height: 100px;
     margin: 0 auto 10px;
-    border-radius: 100%;
     overflow: hidden;
     background-color: #333030; }
   .about img {
     width: 100%;
     height: 100%;
-    border-radius: 50%;
     transition: transform 0.35s; }
     .about img:hover {
       transform: scale3d(0.9, 0.9, 1); }
