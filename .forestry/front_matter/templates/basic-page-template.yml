@@ -22,6 +22,6 @@ fields:
   label: template
   description: template to use
 pages:
-- _posts/pressed-pennies.md
+- _posts/2018-08-29-pressed-pennies.md
 - _posts/2018-08-28-rejected.md
 - _posts/2018-08-28-math-with-fred.md
