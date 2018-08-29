@@ -66,13 +66,13 @@ about-author: >
   Photoshop classes to corporate clients. I also lend a hand with marketing
   materials and website updates for a couple of local non-profit organizations.
 social-twitter: crackinggood
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
+# social-facebook: # add your Facebook handle
+# social-github: # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: blog@growingwithw.com
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: growing-with-w # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
