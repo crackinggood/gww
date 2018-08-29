@@ -1,18 +1,16 @@
 ---
 layout: main
+
 ---
+# Comment Policy
 
-Comment Policy
-==============
+The comment tool this site uses is [Discus](http://disqus.com) - and they have created a [good set of rules](https://help.disqus.com/community-tips/building-identity-and-audience/sample-community-guidelines) appliciable to comments on the site. Please follow these rules, and above all, be kind. Thanks!
 
-The comment tool this site uses is [Discus](http://disqus.com) - and they have created a [good set of rules](https://help.disqus.com/community-tips/building-identity-and-audience/sample-community-guidelines) appliciable to comments on the site. Please follow these rules. Thanks!
+## Keep it civil aka don’t be a jerk
 
-Keep it civil aka don’t be a jerk
----------------------------------
+We’re going to get into the thick of a lot of heated discussions and that’s okay. These discussions often entail topics that we all personally care a lot about and will passionately defend. But in order for discussions to thrive here, we need to remember to criticize ideas, not people.
 
-We’re going to get into the thick of a lot of heated discussions and that’s okay. These discussions often entail topics that we all personally care a lot about and will passionately defend. But in order for discussions to thrive here, we need to remember to criticize ideas, not people. 
- 
- So, remember to avoid:
+So, remember to avoid:
 
 * name-calling
 * ad hominem attacks
@@ -20,16 +18,13 @@ We’re going to get into the thick of a lot of heated discussions and that’s 
 * knee-jerk contradiction
 * Comments that we find to be hateful, inflammatory, or harassing may be removed. If you don’t have something nice to say about another user, don't say it. Treat others the way you’d like to be treated.
 
-Always strive to add value to every interaction and discussion you participate in
----------------------------------------------------------------------------------
+## Always strive to add value to every interaction and discussion you participate in
 
 There are a lot of discussions that happen every day on Disqus. Before joining in a discussion, browse through some of the most recent and active discussions happening in the community, especially if you’re new there.
- 
+
 If you are not sure your post adds to the conversation, think over what you want to say and try again later.
 
-
-Keep it tidy
-------------
+## Keep it tidy
 
 Help make moderators’ lives easier by taking a moment to ensure that what you’re about to post is in the right place. That means:
 
@@ -38,9 +33,8 @@ Help make moderators’ lives easier by taking a moment to ensure that what you�
 * review any specific posting guidelines for the community: some communities such as a movies community may have specific rules regarding spoilers.
 * check if another active discussion on your topic has already been posted
 
-If you see something, say something
------------------------------------
+## If you see something, say something
 
-Moderators are at the forefront of combatting spam, mediating disputes and enforcing community guidelines and, so are you. 
- 
- If you see an issue, contact the moderators if possible or flag any comments for review. If you believe someone has violated the Basic Rules, report it to Disqus by flagging the user's profile.
+Moderators are at the forefront of combatting spam, mediating disputes and enforcing community guidelines and, so are you.
+
+If you see an issue, contact the moderators if possible or flag any comments for review. If you believe someone has violated the Basic Rules, report it to Disqus by flagging the user's profile.
