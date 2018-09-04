@@ -2,7 +2,7 @@
 title: Pressed pennies
 date: 2018-08-29 00:00:00 +0000
 tags: []
-img: ''
+img: "/uploads/090418flatpenny.png"
 post: post
 
 ---
