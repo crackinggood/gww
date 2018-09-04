@@ -3,7 +3,7 @@ title: Pressed pennies
 date: 2018-09-04 00:00:00 +0000
 tags: []
 img: "/uploads/090418flatpenny-1.png"
-post: ''
+post: post
 
 ---
 You know you’ve seen them littering state parks, museums, and zoos from Pennsylvania to Paris.
