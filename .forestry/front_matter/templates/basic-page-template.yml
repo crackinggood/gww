@@ -22,7 +22,6 @@ fields:
   label: template
   description: template to use
 pages:
-- _posts/2018-08-29-pressed-pennies.md
 - _posts/audiobooks.md
 - _posts/2018-08-29-headspace-for-kids.md
 - _posts/2018-08-28-rejected.md
