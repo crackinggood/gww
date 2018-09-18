@@ -13,7 +13,7 @@ fields:
   name: img
   label: image
 - type: select
-  name: post
+  name: template
   config:
     source:
       type: simple
