@@ -4,6 +4,7 @@ date: 2018-08-30 00:00:00 +0000
 tags: []
 img: "/uploads/091818audiobooks.png"
 post: post
+layout: post
 
 ---
 **Got a road trip? Try an audiobook**
