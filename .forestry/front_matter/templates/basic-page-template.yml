@@ -13,13 +13,13 @@ fields:
   name: img
   label: image
 - type: select
-  name: template
+  name: layout
   config:
     source:
       type: simple
     options:
     - post
-  label: template
+  label: layout
   description: template to use
 pages:
 - _posts/2018-09-04-pressed-pennies.md
