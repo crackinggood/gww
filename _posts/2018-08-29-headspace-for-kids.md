@@ -7,7 +7,7 @@ post: ''
 layout: post
 
 ---
-W has been going through a fidgety phase at bedtime.
+W has been going through a fidgety phase at bedtime. 
 
 Most nights at around 7:15pm we start our routine: Put on jammies, brush teeth, fill out our [daily question book](https://www.amazon.com/Q-Day-Kids-Three-Year-Journal/dp/0307952967/ref=sr_1_1?ie=UTF8&qid=1529818865&sr=8-1&keywords=daily+questions+for+kids "Daily question book"), he reads, I read, then I lie with him until he falls asleep.
 
